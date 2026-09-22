@@ -2,15 +2,18 @@
 
 **IT Director · Cybersecurity & Infrastructure**
 
-I run IT for a Portuguese import/export company and spend most of my time on the
-unglamorous half of security: governance that people actually follow, infrastructure
-that survives a bad day, and automation that removes the manual steps where mistakes
-happen.
+For more than 20 years I have led technology teams, without ever treating technology as
+the most important part of the job. What keeps me interested is helping people grow and
+turning systems into something the business can genuinely rely on.
 
-This account is where I publish the small, reusable pieces that come out of that work —
-mostly Claude skills, configs and scripts for security and infrastructure teams.
-Everything here is written for small and mid-sized organisations, where there is no
-dedicated security team and every tool has to earn its place.
+Most of that career has been spent where downtime is not an option — aviation, 24/7
+broadcasting, distributed retail — across Portugal, Spain, Italy and Poland. Different
+industries, same problems: aligning people, process and strategy, making sound decisions
+under pressure, and making sure the systems hold when it matters.
+
+Today my focus is cybersecurity, operational resilience and AI. This account is where I
+publish the small, reusable pieces that come out of that work — mostly Claude skills,
+configs and scripts for security and infrastructure teams.
 
 ### Repositories
 
@@ -20,10 +23,12 @@ dedicated security team and every tool has to earn its place.
 
 ### Background
 
-- IT Director at an import/export company (premium cigars & beverages)
-- Previously IT Operations Manager in media, across multiple countries
-- Environments from ~60 to ~3,000 users, up to 6 countries
-- Focus: Zero Trust, cloud migration (Azure/AWS), IT governance, operational resilience
+- 20+ years leading IT teams, infrastructure and mission-critical operations
+- Aviation, 24/7 broadcasting, distributed retail — sectors where downtime is not an option
+- Worked in Portugal, Spain, Italy and Poland; environments from ~60 to ~3,000 users,
+  spanning up to 6 countries
+- Focus: cybersecurity, Zero Trust, cloud migration (Azure/AWS), IT governance,
+  operational resilience
 - PT · EN · ES
 
 ---
@@ -33,14 +38,17 @@ dedicated security team and every tool has to earn its place.
 
 <br>
 
-Sou Responsável de Informática numa empresa portuguesa de importação e exportação.
-A maior parte do meu trabalho está na metade menos vistosa da segurança: governance
-que as pessoas cumprem mesmo, infraestrutura que aguenta um dia mau, e automação
-que remove os passos manuais onde os erros acontecem.
+Há mais de 20 anos que lidero tecnologia, sem nunca ter tratado a tecnologia como a
+parte mais importante do trabalho. O que me motiva é ajudar as pessoas a crescer e
+transformar sistemas em algo em que o negócio possa mesmo confiar.
 
-Esta conta é onde publico as peças pequenas e reutilizáveis que saem desse trabalho —
-sobretudo skills de Claude, configurações e scripts para equipas de segurança e
-infraestrutura. Está tudo pensado para PMEs, onde não há equipa de segurança dedicada
-e cada ferramenta tem de justificar o seu lugar.
+A maior parte desse percurso foi em contextos onde não há espaço para paragens —
+aviação, broadcasting 24/7, retalho distribuído — em Portugal, Espanha, Itália e
+Polónia. Setores diferentes, problemas iguais: alinhar pessoas, processos e estratégia,
+decidir bem sob pressão, e garantir que os sistemas aguentam quando é preciso.
+
+Hoje o meu foco está na cibersegurança, na resiliência operacional e em IA. Esta conta
+é onde publico as peças pequenas e reutilizáveis que saem desse trabalho — sobretudo
+skills de Claude, configurações e scripts para equipas de segurança e infraestrutura.
 
 </details>
